@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\VezbanjeNasledjivanjeLetelica.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\VezbanjeNasledjivanjeLetelica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\VezbanjeNasledjivanjeLetelica.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\VezbanjeNasledjivanjeLetelica.AssemblyInfo.cs
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\VezbanjeNasledjivanjeLetelica.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\bin\Debug\net5.0\VezbanjeNasledjivanjeLetelica.exe
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\bin\Debug\net5.0\VezbanjeNasledjivanjeLetelica.deps.json
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\bin\Debug\net5.0\VezbanjeNasledjivanjeLetelica.runtimeconfig.json
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\bin\Debug\net5.0\VezbanjeNasledjivanjeLetelica.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\bin\Debug\net5.0\VezbanjeNasledjivanjeLetelica.dll
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\bin\Debug\net5.0\VezbanjeNasledjivanjeLetelica.pdb
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\VezbanjeNasledjivanjeLetelica.dll
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\refint\VezbanjeNasledjivanjeLetelica.dll
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\VezbanjeNasledjivanjeLetelica.pdb
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\VezbanjeNasledjivanjeLetelica.genruntimeconfig.cache
+C:\Users\Dell\source\repos\VezbanjeNasledjivanjeLetelica\VezbanjeNasledjivanjeLetelica\obj\Debug\net5.0\ref\VezbanjeNasledjivanjeLetelica.dll
